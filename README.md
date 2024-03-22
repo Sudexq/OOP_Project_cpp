@@ -5,3 +5,5 @@
 ![oop project ss 4](https://github.com/Sudexq/OOP_Project_cpp/assets/121225010/76b009d6-e38a-479c-bd39-7a79b27a0169)
 
 THIS WAS MY GAME PROJECT FOR MY OOP CLASS
+![image](https://github.com/Sudexq/OOP_Project_cpp/assets/121225010/61db9921-3104-4f91-836f-7068ae9e2885)
+
